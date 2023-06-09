@@ -93,7 +93,7 @@ textarea {
 
 textarea {
   vertical-align: top;
-  height: 60px;
+  height: 80px;
 }
   
 button {
@@ -101,6 +101,8 @@ button {
   width: 120px;
   background-color: #4F4846;
   color: #FDF8F5;
+  position: relative;
+  top: 7px;
 }
  
 /* Class Selectors */
